@@ -11092,3 +11092,31 @@ header.masthead h1, header.masthead .h1 {
     .testimonial:before{ border-right: 325px solid transparent; }
     .testimonial:after{ border-left: 325px solid transparent; }
 }
+
+.bi{
+  font-size: 24px;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+.bi > svg{
+  width: 24px;
+  margin-bottom: 7px;
+}
+
+.bi-instagram{
+  color: #c32aa3 ;
+}
+
+.bi-youtube{
+  font-size: 30px;
+  color: #c4302b ;
+}
+
+.bi-telegram{
+  color: #0088CC ;
+}
+
+.bi-linkedin{
+  color: #0077B5 ;
+}
