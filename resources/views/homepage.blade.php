@@ -146,9 +146,7 @@
                     <div class="testimonial">
                         <span class="icon fa fa-quote-left"></span>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Nullam justo neque, aliquet sit amet elementum vel, vehicula eget eros. Vivamus arcu
-                            metus, mattis sed sagittis at, sagittis quis neque. Praesent.
+                            Bonapasogit Mengajar memiliki tujuan yang jelas yaitu bersama membangun pendidikan di Indonesia khususnya Bonapasogit (kampung halaman). Dengan tujuan tersebut saya termotivasi untuk ikut bergabung disaat situasi yang semakin sulit saat ini dan semakin maraknya pendidikan jarak jauh.
                         </p>
                         <div class="testimonial-content">
                             <div class="pic"><img src="{{ asset('assets/img/mh_fransisca_nadapdap.jpg') }}" alt=""></div>
@@ -159,9 +157,7 @@
                     <div class="testimonial">
                         <span class="icon fa fa-quote-left"></span>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Nullam justo neque, aliquet sit amet elementum vel, vehicula eget eros. Vivamus arcu
-                            metus, mattis sed sagittis at, sagittis quis neque. Praesent.
+                            Karena hidup bukan untuk diri sendiri, kita hidup harus berbagi dan bermanfaat bagi orang lain. I really hope Bonapasogit Mengajar jadi wadah untuk berbagi informasi kepada masyarakat, terutama adik adik di kampung halaman, supaya mereka dapat informasi dan motivasi untuk mewujudkan mimpi-mimpi mereka.
                         </p>
                         <div class="testimonial-content">
                             <div class="pic"><img src="{{ asset('assets/img/windiany_l_sitorus.jpg') }}" alt=""></div>
@@ -172,9 +168,7 @@
                     <div class="testimonial">
                         <span class="icon fa fa-quote-left"></span>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Nullam justo neque, aliquet sit amet elementum vel, vehicula eget eros. Vivamus arcu
-                            metus, mattis sed sagittis at, sagittis quis neque. Praesent.
+                            Di masa sulit pandemi tahun 2020, kita dihadapkan dengan a new way of life. Kebayang dengan adik-adik yg kesulitan menghadapi sistem belajar secara online. So, Bonapasogit Mengajar bertujuan untuk membantu teman-teman agar memiliki akses ke informasi seputar pendidikan secara GRATIS. Sehingga mereka termotivasi dan semakin semangat untuk mencapai mimpi dan cita-cita mereka.
                         </p>
                         <div class="testimonial-content">
                             <div class="pic"><img src="{{ asset('assets/img/ayu_nainggolan.jpg') }}" alt=""></div>
@@ -185,9 +179,7 @@
                     <div class="testimonial">
                         <span class="icon fa fa-quote-left"></span>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Nullam justo neque, aliquet sit amet elementum vel, vehicula eget eros. Vivamus arcu
-                            metus, mattis sed sagittis at, sagittis quis neque. Praesent.
+                            Akan sangat menyenangkan jika banyak orang yang peduli dengan pendidikan dan semakin banyak orang yang berani untuk mengejar mimpi mereka, tanpa memandang siapa dan dimana mereka. Memotivasi diri saya sendiri dan orang lain untuk tetap belajar, berkembang dan lebih baik lagi adalah alasan kenapa saya bergabung dengan Bonapasogit Mengajar.
                         </p>
                         <div class="testimonial-content">
                             <div class="pic"><img src="{{ asset('assets/img/mei_fanora_samosir.jpg') }}" alt=""></div>
@@ -198,9 +190,7 @@
                     <div class="testimonial">
                         <span class="icon fa fa-quote-left"></span>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Nullam justo neque, aliquet sit amet elementum vel, vehicula eget eros. Vivamus arcu
-                            metus, mattis sed sagittis at, sagittis quis neque. Praesent.
+                            Banyak anak-anak yang putus sekolah, tidak kuliah, bahkan pengangguran karena akses & kualitas pendidikan yang minim, serta ekonomi yang kurang mendukung. Hal ini mendorong saya untuk berkontribusi melalui Bonapasogit Mengajar menyediakan akses pendidikan gratis dan memfasilitasi para kaum muda yang rindu untuk berbagi dan belajar.
                         </p>
                         <div class="testimonial-content">
                             <div class="pic"><img src="{{ asset('assets/img/lamhot_siagian.jpg') }}" alt=""></div>

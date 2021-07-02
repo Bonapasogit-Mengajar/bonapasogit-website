@@ -49,14 +49,14 @@
 
     <!-- Footer-->
     <footer class="bg-light py-4">
-        <div class="container mx-auto">
-            <div class="row d-flex align-items-center">
+        <div class="container">
+            <div class="row d-flex align-items-center mx-auto" id="footer">
                 <div class="col">
-                    <div class="container-lg-2">
-                        <div class="small text-muted">Bonapasogit Mengajar</div>
+                    <div class="container">
+                        <div class="small text-muted" id="footer-kiri">Bonapasogit Mengajar</div>
                     </div>
                 </div>
-                <div class="col container d-flex justify-content-end align-items-center">
+                <div class="col container d-flex justify-content-end align-items-center" id="footer-kanan">
                         <a href="https://www.instagram.com/bonapasogitmengajar/"><i class="bi bi-instagram"></i></a>
                         <a href="https://www.linkedin.com/company/bonapasogit-mengajar/"><i class="bi bi-linkedin"></i></i></a>
                         <a href="https://bit.ly/joinTeleBonapasogit"><i class="bi bi-telegram"></i></i></a>

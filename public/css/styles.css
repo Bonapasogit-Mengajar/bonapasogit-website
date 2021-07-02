@@ -6702,7 +6702,7 @@ textarea.form-control-lg {
 }
 
 .justify-content-end {
-  justify-content: flex-end !important;
+  justify-content: flex-end;
 }
 
 .justify-content-center {
@@ -11040,6 +11040,7 @@ header.masthead h1, header.masthead .h1 {
     text-align: left;
     margin-bottom: 30px;
     opacity: 0.8;
+    min-height: 205px;
 }
 .testimonial .testimonial-content{
     width: 100%;
@@ -11119,4 +11120,23 @@ header.masthead h1, header.masthead .h1 {
 
 .bi-linkedin{
   color: #0077B5 ;
+}
+
+@media (max-width: 767.98px) {
+  #footer{
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center!important;
+  }
+  #footer-kiri{
+    text-align: center;
+  }
+  #footer-kanan{
+    margin-top: 10px;
+    justify-content: center;
+  }
+
+  .bi{
+    margin: 8px;
+  }
 }
