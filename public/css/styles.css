@@ -11005,7 +11005,7 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .demo{ background: #0C4C8A; }
-.testimonial{
+.testimonial, .volunteer{
     background: #f8f9fa;
     text-align: center;
     padding: 30px 30px 50px;
@@ -11021,20 +11021,21 @@ header.masthead h1, header.masthead .h1 {
     bottom: -40px;
     left: 0;
 }
-.testimonial:after{
+.testimonial:after,
+.volunteer:after{
     border-right: none;
     border-left: 125px solid transparent;
     left: auto;
     right: 0;
 }
-.testimonial .icon{
+.testimonial .icon, .volunteer .icon{
     display: inline-block;
     font-size: 80px;
     color: #0C4C8A;
     margin-bottom: 20px;
     opacity: 0.6;
 }
-.testimonial .description{
+.testimonial .description, .volunteer .description{
     font-size: 15px;
     color: #717788;
     text-align: left;
@@ -11042,12 +11043,21 @@ header.masthead h1, header.masthead .h1 {
     opacity: 0.8;
     min-height: 230px;
 }
-.testimonial .testimonial-content{
+.volunteer .description{
+  text-align: center;
+  min-height: 100px;
+}
+
+.volunteer .icon-instagram{
+  color : red;
+}
+
+.testimonial .testimonial-content, .volunteer .volunteer-content{
     width: 100%;
     position: absolute;
     left: 0;
 }
-.testimonial .pic{
+.testimonial .pic, .volunteer .pic{
     display: inline-block;
     border: 2px solid #fff;
     border-radius: 50%;
@@ -11061,18 +11071,32 @@ header.masthead h1, header.masthead .h1 {
     width: 80px;
     height: auto;
 }
-.testimonial .title{
+
+.volunteer .pic img{
+    width: 100px;
+    height: auto;
+}
+
+.testimonial .title, .volunteer .title{
     font-size: 15px;
     font-weight: bold;
     color: #fff;
     text-transform: capitalize;
     margin: 0 0 5px 0;
 }
-.testimonial .post{
+.volunteer .title{
+  color: rgb(27, 27, 27);
+}
+
+.testimonial .post, .volunteer .post{
     display: block;
     font-size: 14px;
     color: #E2F0FF;
 }
+.volunteer .post{
+  color: rgb(27, 27, 27);
+}
+
 .owl-theme .owl-controls{
     margin-top: 0;
 }
