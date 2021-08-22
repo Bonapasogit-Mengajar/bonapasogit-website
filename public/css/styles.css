@@ -11140,3 +11140,17 @@ header.masthead h1, header.masthead .h1 {
     margin: 8px;
   }
 }
+
+.vertical-line {
+  border-left: 3px solid #6f42c1;
+}
+
+
+.text-justify{
+  text-align: justify;
+}
+
+.profil{
+  border-radius: 50%;
+  width:200px
+}
