@@ -8,7 +8,7 @@
     <div class="container px-4 px-lg-5 h-100">
         <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
             <div class="col-lg-8 align-self-end">
-                <h1 class="text-white font-weight-bold">Bangun Mimipi Bersama Bonapasogit</h1>
+                <h1 class="text-white font-weight-bold">Bangun Mimpi Bersama Bonapasogit</h1>
                 <hr class="divider" />
             </div>
             <div class="col-lg-8 align-self-baseline">
@@ -70,7 +70,7 @@
 <div id="portfolio">
     <div class="container-fluid p-0">
         <div class="container">
-            
+
             <div class="row g-3">
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box" href="{{ asset('assets/img/kegiatan/kegiatan1.jpg') }}" title="Why and How to Study in Taiwan">
@@ -203,4 +203,6 @@
         </div>
     </div>
 </section>
+
+
 @endsection
